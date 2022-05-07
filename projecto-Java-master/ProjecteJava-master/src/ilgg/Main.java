@@ -32,7 +32,7 @@ public class Main {
         ProfessorSubstiut profe2 = new ProfessorSubstiut();
         profe2.canviarNom("Antonio");
         profe2.canviarSou(1);
-        profe2.assignarDni("42356324A");
+        profe2.assignarDni("42359324A");
         Date dataInici = new Date(2021, 11, 1);
         Date dataFi = new Date(2022, 6, 30);
         profe2.assignarSubstitucio(dataInici, dataFi);
